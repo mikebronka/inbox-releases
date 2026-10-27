@@ -37,6 +37,7 @@ Jeśli zalogujesz się przez Google, program prosi o:
 | `https://mail.google.com/` | pobieranie, porządkowanie i wysyłanie Twojej poczty (IMAP/SMTP) |
 | `gmail.settings.basic` | włączanie i wyłączanie odpowiedzi automatycznej (autorespondera) |
 | `drive.file` | zapisywanie wybranych przez Ciebie załączników na Twoim Dysku Google; program widzi tylko pliki, które sam zapisał |
+| `calendar.events` | dodawanie do Twojego Kalendarza Google wydarzeń z zaproszeń, które dostajesz pocztą – tylko po kliknięciu „Dodaj do Kalendarza Google” |
 
 - Dane z kont Google są używane wyłącznie do tych funkcji, na Twoim komputerze, na Twoje
   polecenie. Nie są przesyłane autorowi ani osobom trzecim, nie są sprzedawane, nie służą do
@@ -101,6 +102,7 @@ If you sign in with Google, the program asks for:
 | `https://mail.google.com/` | downloading, organising and sending your mail (IMAP/SMTP) |
 | `gmail.settings.basic` | turning the automatic reply (vacation responder) on and off |
 | `drive.file` | saving attachments you choose to your Google Drive; the program sees only files it saved itself |
+| `calendar.events` | adding events from invitations you receive by mail to your Google Calendar – only when you click “Add to Google Calendar” |
 
 - Data from Google accounts is used only for these features, on your computer, at your
   request. It is not sent to the author or third parties, not sold, not used for advertising
