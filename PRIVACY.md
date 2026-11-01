@@ -1,15 +1,18 @@
 # Polityka prywatności – Inbox
 
-*Obowiązuje od 27 października 2026 r. · [English below](#privacy-policy--inbox)*
+*Obowiązuje od 1 listopada 2026 r. · [English below](#privacy-policy--inbox)*
 
-Inbox to program pocztowy instalowany na komputerze. Autor: Mike Bronka
-([www.mikebronka.com](https://www.mikebronka.com)), kontakt: mbronka@gmail.com.
+Inbox to program pocztowy instalowany na komputerze. Autor: Michał Bronka
+([www.mikebronka.com](https://www.mikebronka.com)), kontakt: info@mikebronka.com.
+Administrator danych przy zakupie licencji: Michał Bronka, prowadzący działalność gospodarczą
+pod firmą RetroBoxed Michał Bronka, ul. Wojska Polskiego 29, 78-300 Świdwin, NIP 672-19-75-226.
 
 ## W skrócie
 
 Inbox nie zbiera żadnych danych o użytkownikach. Nie ma kont w naszej usłudze, serwerów
 pośredniczących, telemetrii, statystyk ani reklam. Twoja poczta przechodzi wyłącznie między
-Twoim komputerem a serwerami Twojego dostawcy poczty.
+Twoim komputerem a serwerami Twojego dostawcy poczty. Dane podajesz autorowi tylko wtedy, gdy kupujesz licencję
+(zob. „Zakup licencji”).
 
 ## Co program przechowuje i gdzie
 
@@ -18,6 +21,13 @@ Twoim komputerem a serwerami Twojego dostawcy poczty.
   (Menedżer poświadczeń Windows, Pęk kluczy macOS, Secret Service w Linuksie).
 - Nic z tego nie jest wysyłane autorowi ani nikomu innemu.
 - Usunięcie konta w programie usuwa z komputera jego pobraną pocztę i dane logowania.
+- **Klucz licencji** (z imieniem i nazwiskiem albo nazwą firmy i adresem e-mail kupującego) jest
+  zapisany w tej samej zaszyfrowanej bazie. Program sprawdza go sam, bez łączenia się z
+  internetem – nie ma serwera aktywacji ani licznika instalacji.
+- **Powiadomienia o nowej poczcie** pokazuje system operacyjny; to, co w nich widać (np. nadawca
+  i temat – zależnie od ustawienia), system może przechowywać w swoim centrum powiadomień,
+  poza zaszyfrowaną bazą programu. W Ustawieniach → Powiadomienia możesz ograniczyć ich treść
+  albo je wyłączyć.
 
 ## Połączenia, które wykonuje program
 
@@ -26,6 +36,21 @@ Twoim komputerem a serwerami Twojego dostawcy poczty.
   bez ciasteczek i bez adresu strony odsyłającej; znane piksele śledzące są blokowane.
 - **Sprawdzanie aktualizacji** – program pobiera z GitHuba plik z numerem najnowszej wersji.
   GitHub widzi przy tym adres IP, jak przy każdym pobraniu.
+- **Wypisanie z newslettera jednym kliknięciem** – tylko gdy je klikniesz; program wysyła wtedy
+  prośbę o wypisanie pod adres podany przez nadawcę.
+- „Kup licencję” tylko otwiera stronę sklepu w Twojej przeglądarce; program nie wysyła przy tym
+  żadnych danych.
+
+## Zakup licencji
+
+Licencję kupuje się na stronie [inbox.mikebronka.com/buy](https://inbox.mikebronka.com/buy),
+poza programem. Płatność obsługuje Stripe – dane karty trafiają tylko do Stripe. Do wystawienia
+klucza i faktury sklep zapisuje: imię i nazwisko albo nazwę firmy, adres e-mail, adres, kraj,
+NIP (jeśli podasz), kupiony produkt i kwotę. Te dane służą wyłącznie do wysłania klucza, faktury
+(w systemie księgowym, a dla polskich firm także w KSeF) i obsługi zwrotów; w bazie sklepu są
+zaszyfrowane. Przechowujemy je tak długo, jak wymagają przepisy podatkowe. Masz prawo dostępu do
+nich, ich sprostowania i – po upływie okresu wymaganego przepisami – usunięcia; możesz też
+złożyć skargę do Prezesa UODO. Kontakt: info@mikebronka.com.
 
 ## Konta Google (logowanie przez Google)
 
@@ -55,7 +80,7 @@ w tym z wymogami ograniczonego użycia (Limited Use).
 
 Wszystkie dane są tylko u Ciebie – możesz je w każdej chwili usunąć, usuwając konto w
 programie albo sam program. Autor nie ma do nich dostępu, więc nie może ich też udostępnić.
-Pytania: mbronka@gmail.com.
+Wyjątkiem są dane podane przy zakupie licencji (zob. wyżej). Pytania: info@mikebronka.com.
 
 ## Zmiany
 
@@ -65,16 +90,19 @@ Zmiany tej polityki są publikowane w tym miejscu, z nową datą.
 
 # Privacy Policy – Inbox
 
-*Effective 27 October 2026*
+*Effective 1 November 2026*
 
 Inbox is a desktop e-mail program. Author: Mike Bronka
-([www.mikebronka.com](https://www.mikebronka.com)), contact: mbronka@gmail.com.
+([www.mikebronka.com](https://www.mikebronka.com)), contact: info@mikebronka.com.
+Controller of the data given when buying a licence: Michał Bronka, trading as RetroBoxed Michał
+Bronka, ul. Wojska Polskiego 29, 78-300 Świdwin, Poland, VAT ID PL6721975226.
 
 ## In short
 
 Inbox collects no data about its users. There are no accounts with us, no relay servers, no
 telemetry, no analytics and no ads. Your mail travels only between your computer and your
-mail provider's servers.
+mail provider's servers. You give data to the author only when you buy a licence (see
+“Buying a licence”).
 
 ## What the program stores, and where
 
@@ -83,6 +111,13 @@ mail provider's servers.
   (Windows Credential Manager, macOS Keychain, Secret Service on Linux).
 - None of it is sent to the author or anyone else.
 - Removing an account in the program removes its downloaded mail and sign-in data from the computer.
+- **The licence key** (with the buyer's name or company and e-mail address) is kept in the same
+  encrypted database. The program checks it itself, offline – there is no activation server and
+  no installation count.
+- **New-mail notifications** are shown by the operating system; what they show (e.g. sender and
+  subject, depending on the setting) the system may keep in its notification centre, outside the
+  program's encrypted database. Settings → Notifications lets you limit their content or turn
+  them off.
 
 ## Connections the program makes
 
@@ -91,6 +126,21 @@ mail provider's servers.
   cookies or referrer; known tracking pixels are blocked.
 - **Update check** – the program downloads a file with the latest version number from GitHub,
   which sees the IP address as with any download.
+- **One-click unsubscribe** – only when you click it; the program then sends the unsubscribe
+  request to the address the sender gave.
+- "Buy a licence" only opens the shop page in your browser; the program sends no data.
+
+## Buying a licence
+
+Licences are sold on [inbox.mikebronka.com/buy](https://inbox.mikebronka.com/buy), outside the
+program. Payment is handled by Stripe – card details go only to Stripe. To issue the key and the
+invoice the shop stores: your name or company name, e-mail address, address, country, VAT ID (if
+given), the product bought and the amount. This data is used only to send the key and the invoice
+(in the accounting system, and for Polish companies also in the national e-invoice system KSeF)
+and to handle refunds; it is encrypted in the shop's database and kept as long as tax law
+requires. You have the right to access and correct it and – once the period required by law has
+passed – to have it erased, and to lodge a complaint with a data protection authority. Contact:
+info@mikebronka.com.
 
 ## Google accounts (Sign in with Google)
 
@@ -119,7 +169,8 @@ including the Limited Use requirements.
 ## Your rights
 
 All data stays with you – delete it at any time by removing the account or the program. The
-author has no access to it and therefore cannot share it. Questions: mbronka@gmail.com.
+author has no access to it and therefore cannot share it. The exception is the data given when
+buying a licence (see above). Questions: info@mikebronka.com.
 
 ## Changes
 
