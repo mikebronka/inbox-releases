@@ -17,7 +17,7 @@ Windows, macOS and Linux · by Mike Bronka
 - **Your mail is on your disk, so nothing waits for the network.** The list, threads and
   messages open at once, offline too; sync runs in the background and new mail arrives live.
 - **Search that finds everything.** Any part of a word, in the text, subjects, addresses and
-  attachments, across years of mail. Accents and capitals don't matter – "cafe" finds "Café".
+  attachment names, across years of mail. Accents and capitals don't matter – "cafe" finds "Café".
   In our test on half a million messages, results usually appear within a few milliseconds.
 
 ![Search](screenshots/search.webp)
