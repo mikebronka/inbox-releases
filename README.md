@@ -1,166 +1,148 @@
 # Inbox
 
-**Szybki, lekki program pocztowy dla Gmaila i każdej skrzynki IMAP – który ułożysz po swojemu.**
-Windows, macOS i Linux · Inbox by Michał Bronka
+**A fast, lightweight email client for Gmail and any IMAP mailbox – one you arrange your own way.**
+Windows, macOS and Linux · by Mike Bronka
 
-![Główne okno programu](screenshots/glowne-okno.png)
+![The main window](screenshots/main-window.webp)
 
-### [⬇ Pobierz najnowszą wersję](https://github.com/mikebronka/inbox-releases/releases/latest)
+### [⬇ Download the latest version](https://github.com/mikebronka/inbox-releases/releases/latest) · [Website](https://inbox.mikebronka.com) · [Documentation](https://inbox.mikebronka.com/docs)
 
-> Inbox jest we wczesnej fazie (wersje 0.x): działa na co dzień, ale zmienia się szybko.
-> Nowe wersje program instaluje sam.
+> Inbox is in its early versions (0.x): it is used every day, but it changes quickly.
+> The program installs new versions by itself.
 
-## Szybki i lekki
+## Fast and light
 
-- **Instalator ma kilka megabajtów** (Windows ok. 7 MB, macOS ok. 8 MB). Inbox nie wozi ze sobą
-  własnej przeglądarki ani Node.js – korzysta z tej, którą ma system, więc zajmuje mało
-  pamięci i miejsca.
-- **Poczta jest na dysku, więc nic nie czeka na sieć.** Lista, wątki i otwieranie wiadomości
-  działają od razu, także bez internetu; synchronizacja idzie w tle, nowa poczta przychodzi
-  na żywo.
-- **Wyszukiwanie, które znajduje wszystko.** Dowolny fragment słowa, w treści, temacie,
-  adresach i nazwach załączników, w całej poczcie z wielu lat. Polskie znaki nie mają
-  znaczenia – „zolw” znajdzie „Żółw”. W naszym teście na pół miliona wiadomości wyniki
-  pojawiają się zwykle w kilka milisekund.
+- **A few-megabyte installer** (about 7 MB on Windows, 8 MB on macOS). Inbox does not carry its
+  own browser or Node.js – it uses the one the system has, so it needs little memory and disk.
+- **Your mail is on your disk, so nothing waits for the network.** The list, threads and
+  messages open at once, offline too; sync runs in the background and new mail arrives live.
+- **Search that finds everything.** Any part of a word, in the text, subjects, addresses and
+  attachments, across years of mail. Accents and capitals don't matter – "cafe" finds "Café".
+  In our test on half a million messages, results usually appear within a few milliseconds.
 
-![Wyszukiwanie: „zolw” znajduje „Żółw”](screenshots/wyszukiwanie.png)
+![Search](screenshots/search.webp)
 
-## Ułóż go po swojemu
+## Arrange it your way
 
-Mało który program pocztowy daje tyle swobody – Inbox zakłada, że każdy pracuje inaczej.
+Few email clients give you this much freedom – Inbox assumes everyone works differently.
 
-- **Edytor układu.** Przeciągasz panele (foldery, lista, podgląd, paski narzędzi, pasek stanu)
-  na dowolną krawędź innego panelu albo okna, zmieniasz im szerokość i wysokość, ustawiasz
-  przyciski na paskach. Prawy przycisk na panelu → „Edytuj układ…” otwiera edytor od razu z
-  tym panelem. Własne układy zapisujesz pod nazwą, a przewodnik z animacjami pokazuje, jak to
-  działa.
-- **Dwa układy okna** (trzy kolumny albo lista nad podglądem) i **dwa wyglądy listy**: zwarta w
-  kolumnach jak w klasycznym programie pocztowym albo z awatarami i podglądem treści jak w
-  telefonie.
-- **Dopasujesz wszystko:** rozmiar czcionki, wysokość pasków, wysokość wierszy, liczbę linii
-  podglądu, kolumny listy i ich kolejność, kolejność rozmowy w wątku, jasny, ciemny albo
-  Monokai.
-- **Przesiadka bez nauki od nowa:** zestawy skrótów klawiszowych jak w Outlooku (klasycznym i
-  nowym), Thunderbirdzie, Gmailu i Apple Mail – albo własne.
-- **Okno pisania też układasz:** kolejność części (np. Wyślij na samej górze), przyciski paska
-  wysyłania i paska formatowania.
-- Pomoc przy ustawieniach: najedź na nazwę, a dymek z krótką animacją pokaże, co zmienia.
+- **The layout editor.** Drag panels (folders, list, message, toolbars, status bar) to any edge
+  of another panel or of the window, resize them, arrange the buttons on the bars. Right-click a
+  panel → "Edit layout…" opens the editor with that panel already picked. Save your layouts by
+  name; an animated guide shows how it works.
+- **Two window layouts** (three columns, or the list above the message) and **two list styles**:
+  compact columns like a classic mail program, or avatars with a preview of the text like on a
+  phone.
+- **Labels the way you read best:** pills by the subject, soft pastel rows, full colour or
+  coloured text – up to 50 labels with your own names and colours.
+- **18 themes**, an accent colour on any of them, your own themes – and **any VS Code theme**,
+  imported from its file.
+- **Moving from another program?** Keyboard shortcut sets like Outlook (classic and new),
+  Thunderbird, Gmail and Apple Mail – or your own.
+- **Help that shows you:** hover over a setting and a bubble with a short animation shows what it
+  changes.
 
-![Edytor układu z przewodnikiem](screenshots/edytor-ukladu.png)
+![The layout editor](screenshots/layout-editor.webp)
 
-![Wygląd i motywy](screenshots/wyglad.png)
+![Labels in soft colours](screenshots/labels.webp)
 
-![Pomoc z animacją przy ustawieniach](screenshots/pomoc-w-ustawieniach.png)
+![The themes panel](screenshots/themes.webp)
 
-## Porządek w poczcie bez wysiłku
+![Animated help next to a setting](screenshots/help.webp)
 
-- **Filtry z klocków „jeśli … to …”** – warunki i grupy warunków, kilka akcji naraz (folder,
-  etykieta, przeczytane, gwiazdka, archiwum, spam, bez powiadomienia), od razu podgląd
-  pasujących wiadomości i „zastosuj do tego, co już jest”. Prawy przycisk na wiadomości →
-  „Utwórz filtr z tej wiadomości”.
-- **Inteligentna książka adresowa** – każdy, do kogo napisałeś, trafia do niej sam; pełne karty
-  kontaktów, wyszukiwanie po wszystkim (także po numerze telefonu), import i eksport vCard i
-  CSV z Outlooka, Gmaila, Apple i Thunderbirda. Podpowiedzi adresów pomijają adresy no-reply.
-- **Odłóż na później** – wiadomość znika i wraca jako nieprzeczytana o wybranej porze, także na
-  innych komputerach.
-- **Wypisz się** z newslettera jednym kliknięciem, **usuń wszystko od nadawcy**, automatyczne
-  opróżnianie kosza i starego spamu.
-- Etykiety w kolorach, gwiazdki, archiwum jednym klawiszem, wspólne Odebrane wszystkich kont.
+## Order without effort
 
-![Filtr z podglądem pasujących wiadomości](screenshots/filtry.png)
+- **"If … then …" filters built from blocks** – conditions and groups of conditions, several
+  actions at once (folder, label, read, star, archive, spam, no notification), a live preview of
+  matching mail and "apply to what is already there". They can run on the server too (Sieve,
+  Gmail filters), so they work while your computer is off.
+- **A smart address book** – everyone you write to is in it by itself; full contact cards,
+  search through everything (phone numbers too), vCard and CSV import and export from Outlook,
+  Gmail, Apple and Thunderbird. Address suggestions leave out no-reply addresses.
+- **Snooze** – a message goes away and comes back unread at the time you pick, on your other
+  computers too.
+- **One-click unsubscribe**, **delete everything from a sender**, Trash and old spam emptied by
+  themselves, a Starred folder across all accounts, a unified inbox.
+- **What takes up space** – a map of your mailbox by account, folder and sender, with the largest
+  messages and attachments, so you see at once what to delete to fit your mailbox limit or your
+  laptop's disk.
 
-**Od wersji 0.3.1: „Co zajmuje miejsce”** – mapa skrzynki jak w programach do analizy dysku:
-konta, foldery i nadawcy jako prostokąty wielkości zajętego miejsca, lista największych
-wiadomości i załączników z filtrami (filmy, PDF, zdjęcia, archiwa, wiek) i usuwanie kilku naraz.
-Od razu widać, co skasować, żeby zmieścić się w limicie skrzynki albo na dysku laptopa.
+![A filter with a preview of matching mail](screenshots/filters.webp)
 
-## Pisanie
+![What takes up space](screenshots/what-takes-up-space.webp)
 
-- Formatowanie, adresaci jako „pigułki”, DW i UDW, obrazki w treści, pliki przeciągane do okna.
-- **Wyślij później** o wybranej porze, **cofnięcie wysyłki** (5–30 s), szkice zapisywane same.
-- Stopki: pięć szablonów, zdjęcie z przycinaniem, własne pola albo własny HTML, osobna stopka
-  dla każdego konta.
-- Zaproszenia z kalendarza jako karta nad treścią z odpowiedzią Tak / Może / Nie; dodawanie do
-  Kalendarza Google i zapis załączników na Dysku Google.
+## Writing and printing
 
-![Nowa wiadomość](screenshots/nowa-wiadomosc.png)
+- Formatting, recipients as pills, Cc and Bcc, pictures in the text, files dragged into the
+  window, spell checking in several languages at once.
+- **Send later** at a chosen time, **undo send** (5–30 s), drafts that save themselves.
+- Signatures: five templates, a cropped photo, your own fields or your own HTML, a signature for
+  each account.
+- Calendar invitations as a card above the message with Yes / Maybe / No; Google Calendar and
+  saving attachments to Google Drive.
+- **Printing with a page preview:** paper sizes, presets, whole threads without repeated quotes,
+  and on Windows straight to the printer.
 
-## Bezpieczeństwo i prywatność
+![A new message](screenshots/compose.webp)
 
-- Cała poczta, hasła i ustawienia w zaszyfrowanej bazie (AES-256). Klucz trzyma systemowy
-  sejf haseł (Menedżer poświadczeń Windows, Pęk kluczy macOS, Secret Service w Linuksie) –
-  nigdy nie leży na dysku otwartym tekstem.
-- **Ocena każdej wiadomości:** SPF, DKIM i DMARC, podszywanie się pod znane firmy, linki
-  prowadzące gdzie indziej, niż mówi ich opis, inny adres do odpowiedzi, podejrzane załączniki.
-  Program, skrypt albo dokument z makrami otwiera się dopiero po ostrzeżeniu.
-- Obrazy z internetu bez ciasteczek i pikseli śledzących, nigdy w Spamie.
-- Bez telemetrii, statystyk i własnych serwerów. Przed wersją 0.3.0 cały program przeszedł
-  pełny audyt bezpieczeństwa – wszystko, co znalazł, jest poprawione.
-- Powiadomienia o nowej poczcie z wyborem, co pokazują, godzinami ciszy i „tylko od znanych
-  osób”.
+![The print window](screenshots/printing.webp)
 
-![Ostrzeżenie o podszywaniu się (ciemny motyw)](screenshots/ostrzezenie-ciemny-motyw.png)
+## Security and privacy
 
-## Licencja
+- All mail, passwords and settings in an encrypted database (AES-256). The key is kept by the
+  system's password store (Windows Credential Manager, the macOS Keychain, the Secret Service on
+  Linux) – never in plain text on disk.
+- **Every message is checked:** SPF, DKIM and DMARC, impersonated brands, links that lead
+  somewhere other than they say, a different reply-to address, suspicious attachments. A
+  program, script or document with macros opens only after a warning.
+- Pictures from the internet without cookies or tracking pixels, never in Spam.
+- Encrypted backups in one file and encrypted settings sync between your computers.
+- No telemetry, no statistics, no servers of our own. Before version 0.3.0 the whole program
+  went through a full security audit – everything it found is fixed.
 
-- **Wersja darmowa** – do użytku prywatnego, z dwoma kontami pocztowymi, bez limitu czasu i bez
-  reklam; działają w niej wszystkie funkcje.
-- **Licencja osobista – 99 zł** (25 USD / 25 € poza Polską): jedna osoba, jej komputery,
-  dowolnie wiele kont – do użytku prywatnego, w domu czy gdziekolwiek.
-- **Licencja firmowa – 149 zł za stanowisko** (39 USD / 39 €): dla firm, także jednoosobowych,
-  i organizacji – zawsze, gdy program służy do pracy w firmie albo jest kupowany na firmę
-  (faktura z NIP).
+![A warning about an impersonated sender](screenshots/phishing-warning.webp)
 
-Płacisz raz – licencja obejmuje wszystkie wersje 1.x, bez abonamentu. Kupisz ją na
-**[inbox.mikebronka.com/buy](https://inbox.mikebronka.com/buy)**, klucz przychodzi mailem, a
-wkleja się go w Pomoc → Wprowadź licencję… Program sprawdza klucz sam, bez łączenia się z
-internetem. Pełne warunki: [LICENSE.md](LICENSE.md).
+## Licence
 
-## Instalacja
+- **Free version** – for private use, with two mail accounts, no time limit and no ads; every
+  feature works in it.
+- **Personal licence – $25 / 25 €** (99 zł in Poland): one person, their own computers, any
+  number of accounts – for private use, at home or anywhere.
+- **Business licence – $39 / 39 € per seat** (149 zł in Poland): for companies, sole traders
+  included, and organisations – whenever the program is used for work in a business or bought
+  by a business (with a VAT invoice).
 
-Pliki są na stronie [najnowszej wersji](https://github.com/mikebronka/inbox-releases/releases/latest).
+Pay once – the licence covers every 1.x version, no subscription. Buy it at
+**[inbox.mikebronka.com/buy](https://inbox.mikebronka.com/buy)**; the key arrives by email and is
+pasted in Help → Enter licence… The program checks the key itself, without connecting to the
+internet. Full terms: [LICENSE.md](LICENSE.md).
 
-**Windows 10 i 11** – plik `…_x64-setup.exe`. Program nie jest jeszcze podpisany certyfikatem, więc Windows pokaże „System Windows ochronił ten komputer”: kliknij „Więcej informacji” → „Uruchom mimo to”. Instalacja nie wymaga uprawnień administratora.
+## Installation
 
-**macOS** – plik `.dmg`: `aarch64` dla Maców z procesorem Apple (M1 i nowsze), `x64` dla Maców z procesorem Intel (macOS 10.15 lub nowszy). Program nie jest jeszcze poświadczony przez Apple: przy pierwszym uruchomieniu kliknij go prawym przyciskiem → Otwórz → Otwórz.
+The files are on the page of the [latest version](https://github.com/mikebronka/inbox-releases/releases/latest).
 
-**Linux** – `.AppImage` (dowolna dystrybucja: nadaj prawo uruchamiania i uruchom; sam się aktualizuje) albo `.deb` (Debian, Ubuntu, Mint; nowe wersje trzeba pobrać ręcznie).
+**Windows 10 and 11** – the `…_x64-setup.exe` file. The program is not code-signed yet, so Windows shows "Windows protected your PC": click "More info" → "Run anyway". Installing needs no administrator rights.
 
-Na start możesz obejrzeć program na przykładowych danych, zanim dodasz własne konto.
+**macOS** – the `.dmg` file: `aarch64` for Macs with an Apple processor (M1 and later), `x64` for Macs with an Intel processor (macOS 10.15 or newer). The program is not notarised by Apple yet: the first time, right-click it → Open → Open.
 
-## Aktualizacje
+**Linux** – `.AppImage` (any distribution: make it executable and run it; it updates itself) or `.deb` (Debian, Ubuntu, Mint; new versions are downloaded by hand).
 
-Program sam sprawdza, czy jest nowsza wersja (po uruchomieniu i co kilka godzin), i proponuje ją w rogu okna. Każda paczka jest podpisana cyfrowo – program instaluje tylko taką, której podpis się zgadza. Poczta, ustawienia i licencja zostają bez zmian. Można to wyłączyć w Ustawieniach → O programie.
+You can look around the program with sample data before you add your own account.
 
-Co się zmieniło w każdej wersji – w opisie [wydania](https://github.com/mikebronka/inbox-releases/releases).
+## Languages
 
-## Prywatność
+English is built in. Polski, Deutsch, Français, Español, Italiano, Português (Brasil), Nederlands, Čeština, Українська and Русский are signed language packs – translation and spelling dictionary together – downloaded when you choose one in Settings → Language.
 
-Inbox nie wysyła autorowi żadnych danych – zob. [PRIVACY.md](PRIVACY.md). Program korzysta z bibliotek open source, wymienionych w [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+## Updates
+
+The program checks for a newer version by itself (at start and every few hours) and offers it in the corner of the window. Every package is digitally signed – the program installs only one whose signature checks out. Your mail, settings and licence stay as they are. This can be switched off in Settings → About.
+
+What changed in each version is in the notes of each [release](https://github.com/mikebronka/inbox-releases/releases).
+
+## Privacy
+
+Inbox sends the author no data – see [PRIVACY.md](PRIVACY.md). The program uses open-source libraries, listed in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 
 ---
-
-## English
-
-**Inbox** is a fast, lightweight email client for Gmail and any IMAP account – one you can arrange your own way. Windows, macOS (Apple Silicon and Intel) and Linux; interface in Polish and English. Inbox by Mike Bronka.
-
-**Fast and light.** A few-megabyte installer (about 7 MB on Windows, 8 MB on macOS): no bundled browser or Node.js, it uses the system web view, so it needs little memory and disk. All mail is stored locally, so lists, threads and messages open instantly, even offline, while sync runs in the background and new mail arrives live. **Search finds anything**: any fragment of a word, in bodies, subjects, addresses and attachment names, across years of mail, with accents ignored ("zolw" finds "Żółw") – typically a few milliseconds on half a million messages in our benchmark.
-
-**Arrange it your way.**
-- **Layout editor** – drag panels (folders, list, preview, toolbars, status bar) to any edge of another panel or the window, resize them, arrange toolbar buttons; right-click a panel → "Edit layout…"; save named layouts; an animated guide shows how.
-- Two window layouts (three columns or list above preview) and two list styles (compact columns, or avatars with a preview of the text).
-- Text size, toolbar heights, row height, preview lines, list columns and their order, thread order, light, dark or Monokai themes.
-- **Coming from another program?** Shortcut sets like Outlook (classic and new), Thunderbird, Gmail and Apple Mail – or your own.
-- A customisable compose window (order of its parts, buttons of its bars), and animated help next to settings.
-
-**Order without effort.** Block-based filters ("if … then …", groups of conditions, several actions at once) with a live preview of matching mail and "apply to existing"; a smart address book (everyone you wrote to, full contact cards, vCard/CSV import from Outlook, Gmail, Apple and Thunderbird); snooze, one-click unsubscribe, "delete everything from this sender", coloured labels, unified inbox. **From 0.3.1: "What takes up space"** – a treemap of your mailbox by account, folder and sender, plus the largest messages and attachments with filters, so you see at once what to delete.
-
-**Writing.** Formatting, recipients as chips, send later, undo send (5–30 s), drafts saved automatically, signatures with templates and photo, calendar invitations with Yes / Maybe / No, Google Calendar and Google Drive.
-
-**Security and privacy.** All mail, passwords and settings in an encrypted database (AES-256, key kept in the system credential store). Every message is checked: SPF, DKIM and DMARC, impersonated brands, links that lead somewhere else than they say, risky attachments. Remote images without cookies or tracking pixels. No telemetry, no servers of our own; a full security audit before 0.3.0. Notifications with quiet hours.
-
-**Licence.** Free version for private use with two mail accounts, no time limit, every feature. Personal licence $25 / 25 € (one person, any number of accounts, private use), business licence $39 / 39 € per seat (any business, sole traders included) – pay once, covers every 1.x version. Buy at [inbox.mikebronka.com/buy](https://inbox.mikebronka.com/buy); the key is checked offline. Terms: [LICENSE.md](LICENSE.md).
-
-[Download the latest version](https://github.com/mikebronka/inbox-releases/releases/latest) · [privacy](PRIVACY.md) · open-source components: [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)
 
 © 2026 Mike Bronka · [www.mikebronka.com](https://www.mikebronka.com)
