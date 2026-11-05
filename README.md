@@ -106,8 +106,10 @@ Od razu widać, co skasować, żeby zmieścić się w limicie skrzynki albo na d
 - **Wersja darmowa** – do użytku prywatnego, z dwoma kontami pocztowymi, bez limitu czasu i bez
   reklam; działają w niej wszystkie funkcje.
 - **Licencja osobista – 99 zł** (25 USD / 25 € poza Polską): jedna osoba, jej komputery,
-  dowolnie wiele kont, także we własnej jednoosobowej działalności.
-- **Licencja firmowa – 149 zł za stanowisko** (39 USD / 39 €): dla firm i organizacji.
+  dowolnie wiele kont – do użytku prywatnego, w domu czy gdziekolwiek.
+- **Licencja firmowa – 149 zł za stanowisko** (39 USD / 39 €): dla firm, także jednoosobowych,
+  i organizacji – zawsze, gdy program służy do pracy w firmie albo jest kupowany na firmę
+  (faktura z NIP).
 
 Płacisz raz – licencja obejmuje wszystkie wersje 1.x, bez abonamentu. Kupisz ją na
 **[inbox.mikebronka.com/buy](https://inbox.mikebronka.com/buy)**, klucz przychodzi mailem, a
@@ -157,7 +159,7 @@ Inbox nie wysyła autorowi żadnych danych – zob. [PRIVACY.md](PRIVACY.md). Pr
 
 **Security and privacy.** All mail, passwords and settings in an encrypted database (AES-256, key kept in the system credential store). Every message is checked: SPF, DKIM and DMARC, impersonated brands, links that lead somewhere else than they say, risky attachments. Remote images without cookies or tracking pixels. No telemetry, no servers of our own; a full security audit before 0.3.0. Notifications with quiet hours.
 
-**Licence.** Free version for private use with two mail accounts, no time limit, every feature. Personal licence $25 / 25 € (one person, any number of accounts), business licence $39 / 39 € per seat – pay once, covers every 1.x version. Buy at [inbox.mikebronka.com/buy](https://inbox.mikebronka.com/buy); the key is checked offline. Terms: [LICENSE.md](LICENSE.md).
+**Licence.** Free version for private use with two mail accounts, no time limit, every feature. Personal licence $25 / 25 € (one person, any number of accounts, private use), business licence $39 / 39 € per seat (any business, sole traders included) – pay once, covers every 1.x version. Buy at [inbox.mikebronka.com/buy](https://inbox.mikebronka.com/buy); the key is checked offline. Terms: [LICENSE.md](LICENSE.md).
 
 [Download the latest version](https://github.com/mikebronka/inbox-releases/releases/latest) · [privacy](PRIVACY.md) · open-source components: [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)
 

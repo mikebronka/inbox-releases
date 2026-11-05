@@ -10,9 +10,9 @@ Autor: Michał Bronka. Licencjodawca: Michał Bronka, prowadzący działalność
 
 1. Wersja darmowa. Program można używać bezpłatnie wyłącznie do użytku prywatnego (niekomercyjnego). Wersja darmowa pozwala dodać najwyżej dwa konta pocztowe; konta dodane wcześniej z licencją (np. po jej usunięciu lub wygaśnięciu) działają dalej, ale kolejnych nie można dodać.
 
-2. Licencja osobista. Uprawnia jedną osobę fizyczną do używania programu na jej własnych komputerach, bez limitu kont, także w jej własnej, jednoosobowej działalności zawodowej.
+2. Licencja osobista. Uprawnia jedną osobę fizyczną do używania programu na jej własnych komputerach, bez limitu kont, wyłącznie do użytku prywatnego (niekomercyjnego). Nie obejmuje działalności gospodarczej ani zawodowej, także jednoosobowej.
 
-3. Licencja firmowa. Uprawnia firmę lub inną organizację do używania programu na tylu stanowiskach (przez tylu użytkowników), ile obejmuje licencja, bez limitu kont.
+3. Licencja firmowa. Uprawnia firmę – także jednoosobową działalność gospodarczą – lub inną organizację do używania programu na tylu stanowiskach (przez tylu użytkowników), ile obejmuje licencja, bez limitu kont. Używanie programu w działalności gospodarczej lub zawodowej, w tym zakup licencji na firmę, wymaga licencji firmowej.
 
 4. Licencja testera. Wydawana bezpłatnie testerom, ważna do daty podanej w kluczu. Po tej dacie program działa jak wersja darmowa.
 
@@ -38,9 +38,9 @@ Author: Mike Bronka. Licensor: Michał (Mike) Bronka, trading as RetroBoxed Mich
 
 1. Free version. The program may be used free of charge for private (non-commercial) use only. The free version lets you add at most two mail accounts; accounts added earlier under a licence (after it was removed or expired, for example) keep working, but no more can be added.
 
-2. Personal licence. Entitles one natural person to use the program on their own computers, with any number of accounts, including in their own one-person professional activity.
+2. Personal licence. Entitles one natural person to use the program on their own computers, with any number of accounts, for private (non-commercial) use only. It does not cover business or professional activity, including a one-person business.
 
-3. Business licence. Entitles a company or other organisation to use the program on as many workstations (by as many users) as the licence covers, with any number of accounts.
+3. Business licence. Entitles a company – including a sole trader – or other organisation to use the program on as many workstations (by as many users) as the licence covers, with any number of accounts. Using the program in business or professional activity, including buying a licence for a business, requires a business licence.
 
 4. Tester licence. Given free of charge to testers, valid until the date in the key. After that date the program works as the free version.
 
