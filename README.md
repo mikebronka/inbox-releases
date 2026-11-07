@@ -1,6 +1,6 @@
 # Inbox
 
-**A fast, lightweight email client for Gmail and any IMAP mailbox – one you arrange your own way.**
+**A fast, lightweight email client for Gmail, Outlook.com, iCloud, Yahoo and any IMAP mailbox – one you arrange your own way.**
 Windows, macOS and Linux · by Mike Bronka
 
 ![The main window](screenshots/main-window.webp)
@@ -17,7 +17,8 @@ Windows, macOS and Linux · by Mike Bronka
 - **Your mail is on your disk, so nothing waits for the network.** The list, threads and
   messages open at once, offline too; sync runs in the background and new mail arrives live.
 - **Search that finds everything.** Any part of a word, in the text, subjects, addresses and
-  attachment names, across years of mail. Accents and capitals don't matter – "cafe" finds "Café".
+  attachments – their names and what is inside them (PDF, Word, Excel, PowerPoint,
+  OpenDocument), across years of mail. Accents and capitals don't matter – "cafe" finds "Café".
   In our test on half a million messages, results usually appear within a few milliseconds.
 
 ![Search](screenshots/search.webp)
@@ -76,6 +77,7 @@ Few email clients give you this much freedom – Inbox assumes everyone works di
 - Formatting, recipients as pills, Cc and Bcc, pictures in the text, files dragged into the
   window, spell checking in several languages at once.
 - **Send later** at a chosen time, **undo send** (5–30 s), drafts that save themselves.
+- **Reply templates** with fields for the name and the date, put in from a menu or Ctrl+Shift+T.
 - Signatures: five templates, a cropped photo, your own fields or your own HTML, a signature for
   each account.
 - Calendar invitations as a card above the message with Yes / Maybe / No; Google Calendar and
@@ -91,7 +93,9 @@ Few email clients give you this much freedom – Inbox assumes everyone works di
 
 - All mail, passwords and settings in an encrypted database (AES-256). The key is kept by the
   system's password store (Windows Credential Manager, the macOS Keychain, the Secret Service on
-  Linux) – never in plain text on disk.
+  Linux) – never in plain text on disk. Want more? **A password at startup** locks the program
+  itself, also after time away.
+- **Sign in with Google or Microsoft** on their own page – the program never sees the password.
 - **Every message is checked:** SPF, DKIM and DMARC, impersonated brands, links that lead
   somewhere other than they say, a different reply-to address, suspicious attachments. A
   program, script or document with macros opens only after a warning.
@@ -123,7 +127,7 @@ The files are on the page of the [latest version](https://github.com/mikebronka/
 
 **Windows 10 and 11** – the `…_x64-setup.exe` file. The program is not code-signed yet, so Windows shows "Windows protected your PC": click "More info" → "Run anyway". Installing needs no administrator rights.
 
-**macOS** – the `.dmg` file: `aarch64` for Macs with an Apple processor (M1 and later), `x64` for Macs with an Intel processor (macOS 10.15 or newer). The program is not notarised by Apple yet: the first time, right-click it → Open → Open.
+**macOS** – the `.dmg` file: `aarch64` for Macs with an Apple processor (M1 and later), `x64` for Macs with an Intel processor (macOS 10.15 or newer). The program is not notarised by Apple yet: the first time macOS refuses to open it – go to System Settings → Privacy & Security, click "Open Anyway" and confirm with your password (on macOS 14 and older: right-click the program → Open → Open).
 
 **Linux** – `.AppImage` (any distribution: make it executable and run it; it updates itself) or `.deb` (Debian, Ubuntu, Mint; new versions are downloaded by hand).
 
