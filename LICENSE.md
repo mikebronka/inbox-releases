@@ -6,7 +6,7 @@ Poniżej pełne warunki licencji, w tym samym brzmieniu co w programie (Ustawien
 
 ## Polski – Warunki licencji (wersje 1.x)
 
-Autor: Michał Bronka. Licencjodawca: Michał Bronka, prowadzący działalność gospodarczą pod firmą RetroBoxed Michał Bronka, ul. Wojska Polskiego 29, 78-300 Świdwin, Polska, NIP 672-19-75-226. Kontakt: info@mikebronka.com.
+Autor: Michał Bronka. Licencjodawca: Michał Bronka, prowadzący działalność gospodarczą pod firmą RetroBoxed Michał Bronka, ul. Wojska Polskiego 29, 78-300 Świdwin, Polska, NIP 672-19-75-226. Kontakt: przez stronę [inbox.mikebronka.com/support](https://inbox.mikebronka.com/support).
 
 1. Wersja darmowa. Program można używać bezpłatnie wyłącznie do użytku prywatnego (niekomercyjnego). Wersja darmowa pozwala dodać najwyżej dwa konta pocztowe; konta dodane wcześniej z licencją (np. po jej usunięciu lub wygaśnięciu) działają dalej, ale kolejnych nie można dodać.
 
@@ -34,7 +34,7 @@ Program zawiera komponenty open source, które pozostają na swoich licencjach �
 
 ## English – Licence terms (versions 1.x)
 
-Author: Mike Bronka. Licensor: Michał (Mike) Bronka, trading as RetroBoxed Michał Bronka, ul. Wojska Polskiego 29, 78-300 Świdwin, Poland, VAT ID PL6721975226. Contact: info@mikebronka.com.
+Author: Mike Bronka. Licensor: Michał (Mike) Bronka, trading as RetroBoxed Michał Bronka, ul. Wojska Polskiego 29, 78-300 Świdwin, Poland, VAT ID PL6721975226. Contact: through [inbox.mikebronka.com/support](https://inbox.mikebronka.com/support).
 
 1. Free version. The program may be used free of charge for private (non-commercial) use only. The free version lets you add at most two mail accounts; accounts added earlier under a licence (after it was removed or expired, for example) keep working, but no more can be added.
 

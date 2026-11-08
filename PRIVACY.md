@@ -3,7 +3,7 @@
 *Obowiązuje od 1 listopada 2026 r. · [English below](#privacy-policy--inbox)*
 
 Inbox to program pocztowy instalowany na komputerze. Autor: Michał Bronka
-([www.mikebronka.com](https://www.mikebronka.com)), kontakt: info@mikebronka.com.
+([www.mikebronka.com](https://www.mikebronka.com)), kontakt: przez stronę [inbox.mikebronka.com/support](https://inbox.mikebronka.com/support).
 Administrator danych przy zakupie licencji: Michał Bronka, prowadzący działalność gospodarczą
 pod firmą RetroBoxed Michał Bronka, ul. Wojska Polskiego 29, 78-300 Świdwin, NIP 672-19-75-226.
 
@@ -50,7 +50,7 @@ NIP (jeśli podasz), kupiony produkt i kwotę. Te dane służą wyłącznie do w
 (w systemie księgowym, a dla polskich firm także w KSeF) i obsługi zwrotów; w bazie sklepu są
 zaszyfrowane. Przechowujemy je tak długo, jak wymagają przepisy podatkowe. Masz prawo dostępu do
 nich, ich sprostowania i – po upływie okresu wymaganego przepisami – usunięcia; możesz też
-złożyć skargę do Prezesa UODO. Kontakt: info@mikebronka.com.
+złożyć skargę do Prezesa UODO. Kontakt: przez stronę [inbox.mikebronka.com/support](https://inbox.mikebronka.com/support).
 
 ## Konta Google (logowanie przez Google)
 
@@ -80,7 +80,7 @@ w tym z wymogami ograniczonego użycia (Limited Use).
 
 Wszystkie dane są tylko u Ciebie – możesz je w każdej chwili usunąć, usuwając konto w
 programie albo sam program. Autor nie ma do nich dostępu, więc nie może ich też udostępnić.
-Wyjątkiem są dane podane przy zakupie licencji (zob. wyżej). Pytania: info@mikebronka.com.
+Wyjątkiem są dane podane przy zakupie licencji (zob. wyżej). Pytania: przez stronę [inbox.mikebronka.com/support](https://inbox.mikebronka.com/support).
 
 ## Zmiany
 
@@ -93,7 +93,7 @@ Zmiany tej polityki są publikowane w tym miejscu, z nową datą.
 *Effective 1 November 2026*
 
 Inbox is a desktop e-mail program. Author: Mike Bronka
-([www.mikebronka.com](https://www.mikebronka.com)), contact: info@mikebronka.com.
+([www.mikebronka.com](https://www.mikebronka.com)), contact: through [inbox.mikebronka.com/support](https://inbox.mikebronka.com/support).
 Controller of the data given when buying a licence: Michał Bronka, trading as RetroBoxed Michał
 Bronka, ul. Wojska Polskiego 29, 78-300 Świdwin, Poland, VAT ID PL6721975226.
 
@@ -140,7 +140,7 @@ given), the product bought and the amount. This data is used only to send the ke
 and to handle refunds; it is encrypted in the shop's database and kept as long as tax law
 requires. You have the right to access and correct it and – once the period required by law has
 passed – to have it erased, and to lodge a complaint with a data protection authority. Contact:
-info@mikebronka.com.
+through [inbox.mikebronka.com/support](https://inbox.mikebronka.com/support).
 
 ## Google accounts (Sign in with Google)
 
@@ -170,7 +170,7 @@ including the Limited Use requirements.
 
 All data stays with you – delete it at any time by removing the account or the program. The
 author has no access to it and therefore cannot share it. The exception is the data given when
-buying a licence (see above). Questions: info@mikebronka.com.
+buying a licence (see above). Questions: through [inbox.mikebronka.com/support](https://inbox.mikebronka.com/support).
 
 ## Changes
 

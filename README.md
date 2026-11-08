@@ -1,6 +1,6 @@
 # Inbox
 
-**A fast, lightweight email client for Gmail, Outlook.com, iCloud, Yahoo and any IMAP mailbox – one you arrange your own way.**
+**A fast, lightweight email client for Gmail, Outlook.com, iCloud, Yahoo and any IMAP or POP3 mailbox – one you arrange your own way.**
 Windows, macOS and Linux · by Mike Bronka
 
 ![The main window](screenshots/main-window.webp)
