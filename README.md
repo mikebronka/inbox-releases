@@ -143,6 +143,10 @@ The program checks for a newer version by itself (at start and every few hours) 
 
 What changed in each version is in the notes of each [release](https://github.com/mikebronka/inbox-releases/releases).
 
+## Bugs and ideas
+
+Inbox is made by one person, without a help desk. Something broken? Look at [Known problems](https://inbox.mikebronka.com/docs/known-problems) first, then [report it here](https://github.com/mikebronka/inbox-releases/issues/new/choose) (in the program: Help → Report a problem…). Every report is read, fixed in a release and closed with the version that fixes it. Ideas go the same way. The list of [open issues](https://github.com/mikebronka/inbox-releases/issues) is public.
+
 ## Privacy
 
 Inbox sends the author no data – see [PRIVACY.md](PRIVACY.md). The program uses open-source libraries, listed in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
