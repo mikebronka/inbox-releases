@@ -1,0 +1,20 @@
+name: Idea
+description: Something you miss in Inbox every day.
+labels: [idea]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Every idea is read and weighed against what Inbox is meant to be: fast with big mailboxes, classic, and stable – nothing moves once 1.0 is out. Some things are left out on purpose (a calendar of its own, AI features, plugins); the [roadmap](https://inbox.mikebronka.com/docs/known-problems#planned) shows what is planned.
+  - type: textarea
+    id: what
+    attributes:
+      label: What you would like
+      description: What you want to do, and how you do it today (in Inbox or another program).
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Inbox version
+      placeholder: "0.3.14"

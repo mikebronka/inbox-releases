@@ -1,0 +1,59 @@
+name: Bug
+description: Something in Inbox does not work, or works oddly.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting. Inbox is made by one person: every report is read, fixed in a release and closed with the version that fixes it. Look at [Known problems](https://inbox.mikebronka.com/docs/known-problems) first – it may be there with a way around it.
+
+        **This page is public.** Do not paste the content of your mail, passwords or other people's addresses. Licence and payment questions go through the contact page, not here.
+  - type: input
+    id: version
+    attributes:
+      label: Inbox version
+      description: Help → About Inbox (filled in when you come from Help → Report a problem).
+      placeholder: "0.3.14"
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: System
+      description: Windows 11, macOS 15.1, Ubuntu 24.04…
+    validations:
+      required: true
+  - type: dropdown
+    id: account
+    attributes:
+      label: Kind of account
+      description: Where it happens, if it is about mail.
+      multiple: true
+      options:
+        - Gmail / Google Workspace
+        - Outlook.com / Microsoft 365
+        - Yahoo
+        - iCloud
+        - Another IMAP server
+        - POP3
+        - Not about an account
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what happened instead. Screenshots help (cover anything private).
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How to make it happen again
+      placeholder: |
+        1. …
+        2. …
+  - type: textarea
+    id: log
+    attributes:
+      label: Event log
+      description: Help → Event log → Errors and warnings → Copy, and paste here. It holds no passwords and no message text, but it can hold your address and server names – remove what you don't want public.
+      render: text

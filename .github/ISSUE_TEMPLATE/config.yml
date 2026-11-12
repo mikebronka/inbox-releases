@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Licence or payment
+    url: https://inbox.mikebronka.com/buy#contact
+    about: Questions about a licence, an invoice or a payment – through the contact on the site, not in public.
+  - name: Documentation
+    url: https://inbox.mikebronka.com/docs
+    about: How things work, every setting and shortcut.
