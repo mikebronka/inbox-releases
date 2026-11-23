@@ -129,7 +129,7 @@ The files are on the page of the [latest version](https://github.com/mikebronka/
 
 **macOS** – the `.dmg` file: `aarch64` for Macs with an Apple processor (M1 and later), `x64` for Macs with an Intel processor (macOS 10.15 or newer). The program is not notarised by Apple yet: the first time macOS refuses to open it – go to System Settings → Privacy & Security, click "Open Anyway" and confirm with your password (on macOS 14 and older: right-click the program → Open → Open).
 
-**Linux** – `.AppImage` (any distribution: make it executable and run it; it updates itself) or `.deb` (Debian, Ubuntu, Mint; new versions are downloaded by hand).
+**Linux** – `.AppImage` (any distribution: make it executable and run it), `.deb` (Debian, Ubuntu, Mint) or `.rpm` (Fedora, openSUSE). All three update themselves; the packages ask for the administrator's password when a new version installs.
 
 You can look around the program with sample data before you add your own account.
 
