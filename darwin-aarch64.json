@@ -1,0 +1,15 @@
+{
+  "version": "0.3.26",
+  "notes": "",
+  "pub_date": "2026-11-25T21:58:16.270Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTazFMSGs3akxsU0JzVGFVc1BUY3d0THIrZE5iNGxmeHJoWnZ4MmxMZlVnVi9leTRHZERVL0lZVmduSDRZU1loNzRqNGQ2TlJIOXZyblFnZVp6UVExNWdRQUdPNlBqQlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjQzODkxCWZpbGU6SW5ib3guYXBwLnRhci5negl2ZXJzaW9uOjAuMy4yNgp2VTV3RWk0b094YjJXS0xxT3ZCaGg0R2g4QTZFMnVwV3g4enlDa3RNRTVObUI1N3pRbDk2NEE2N3BhUXJxM2F3bnV3eWtIU0ZwZFhDb3oySXA4aEZBQT09Cg==",
+      "url": "https://github.com/mikebronka/inbox-releases/releases/latest/download/Inbox_aarch64.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTazFMSGs3akxsU0JzVGFVc1BUY3d0THIrZE5iNGxmeHJoWnZ4MmxMZlVnVi9leTRHZERVL0lZVmduSDRZU1loNzRqNGQ2TlJIOXZyblFnZVp6UVExNWdRQUdPNlBqQlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjQzODkxCWZpbGU6SW5ib3guYXBwLnRhci5negl2ZXJzaW9uOjAuMy4yNgp2VTV3RWk0b094YjJXS0xxT3ZCaGg0R2g4QTZFMnVwV3g4enlDa3RNRTVObUI1N3pRbDk2NEE2N3BhUXJxM2F3bnV3eWtIU0ZwZFhDb3oySXA4aEZBQT09Cg==",
+      "url": "https://github.com/mikebronka/inbox-releases/releases/latest/download/Inbox_aarch64.app.tar.gz"
+    }
+  }
+}

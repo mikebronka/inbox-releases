@@ -1,0 +1,15 @@
+{
+  "version": "0.3.26",
+  "notes": "",
+  "pub_date": "2026-11-25T21:58:16.270Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTazFMSGs3akxsU0paT1VjM0t1cjlvMytqbTNHZG95MU5XaEV6SnlUbGpIYlFiYmVHWlR4R1FXQzdSdCtCU25uSkN2T09EQkNTMVRwdGVGWVNsUWc3clowejFicXpuclFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjQxMzMyCWZpbGU6SW5ib3guYXBwLnRhci5negl2ZXJzaW9uOjAuMy4yNgpPUmpSUGxMTW80NENnejJnQjBQTG9RdTg0L0VZOUVkbEtiNURaaDlQTzBaNGJUN09VK29XYWJSRnI0RVNpQlVFU1ltdjZiQno5TFJpNXBDTTRFUXZEdz09Cg==",
+      "url": "https://github.com/mikebronka/inbox-releases/releases/latest/download/Inbox_x64.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTazFMSGs3akxsU0paT1VjM0t1cjlvMytqbTNHZG95MU5XaEV6SnlUbGpIYlFiYmVHWlR4R1FXQzdSdCtCU25uSkN2T09EQkNTMVRwdGVGWVNsUWc3clowejFicXpuclFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjQxMzMyCWZpbGU6SW5ib3guYXBwLnRhci5negl2ZXJzaW9uOjAuMy4yNgpPUmpSUGxMTW80NENnejJnQjBQTG9RdTg0L0VZOUVkbEtiNURaaDlQTzBaNGJUN09VK29XYWJSRnI0RVNpQlVFU1ltdjZiQno5TFJpNXBDTTRFUXZEdz09Cg==",
+      "url": "https://github.com/mikebronka/inbox-releases/releases/latest/download/Inbox_x64.app.tar.gz"
+    }
+  }
+}

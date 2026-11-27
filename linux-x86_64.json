@@ -1,0 +1,23 @@
+{
+  "version": "0.3.27",
+  "notes": "",
+  "pub_date": "2026-11-27T16:51:40.807Z",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTazFMSGs3akxsU0c2QzRDdHhzcTVpVHVmWUlVUi9FNlgvUG8zZjRoTzlEYkZNVCtWNGxSVFA2MkwyU3FUTDNmY0dCQ1pDT1FydmkxT3RUSjdGNVNLT0E1SGV4RzBTbHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzk2MTE3CWZpbGU6SW5ib3hfMC4zLjI3X2FtZDY0LkFwcEltYWdlCXZlcnNpb246MC4zLjI3CkQ5c1hGNmNvOG8wc0pOeEdqSmh6VWE4U1VQNHpSQ1liR1dmVUNTb3JPY0ZKL3lVNGJGaFcwc3VTVDFrR1l1L0p4UWh3N2lnRE9WS25hUmI3c1hvOUJRPT0K",
+      "url": "https://github.com/mikebronka/inbox-releases/releases/latest/download/Inbox_0.3.27_amd64.AppImage"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTazFMSGs3akxsU0c2QzRDdHhzcTVpVHVmWUlVUi9FNlgvUG8zZjRoTzlEYkZNVCtWNGxSVFA2MkwyU3FUTDNmY0dCQ1pDT1FydmkxT3RUSjdGNVNLT0E1SGV4RzBTbHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzk2MTE3CWZpbGU6SW5ib3hfMC4zLjI3X2FtZDY0LkFwcEltYWdlCXZlcnNpb246MC4zLjI3CkQ5c1hGNmNvOG8wc0pOeEdqSmh6VWE4U1VQNHpSQ1liR1dmVUNTb3JPY0ZKL3lVNGJGaFcwc3VTVDFrR1l1L0p4UWh3N2lnRE9WS25hUmI3c1hvOUJRPT0K",
+      "url": "https://github.com/mikebronka/inbox-releases/releases/latest/download/Inbox_0.3.27_amd64.AppImage"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTazFMSGs3akxsU0REQ0RTQXRRSHkwRWl6M00wK1RhbG5VTW83aG1ON2dsSEUxbXQzdDFLd0xTcXRXdGgyVHA0dWFOM2pxVHp0K3AreTVsbHJUc0ZRZHlOQlI0d3BVYlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzk2MTE3CWZpbGU6SW5ib3hfMC4zLjI3X2FtZDY0LmRlYgl2ZXJzaW9uOjAuMy4yNwpTMVJBVlZSM01Uc0N5ZTVYSk40dnJLSW82REJZMkIvaVlWa0t6WE16UloyeTlJWURzSW9vL2YyRjNramY4WWhaYWpYL1A2R2pzd2R5Q3VteGd2cENCZz09Cg==",
+      "url": "https://github.com/mikebronka/inbox-releases/releases/latest/download/Inbox_0.3.27_amd64.deb"
+    },
+    "linux-x86_64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTazFMSGs3akxsU0tTS0h2ODFQaFQ5cXM2eUNxYklWcXYxM1hlUjdnZGdheEtOMlEvYjM3KzZjZEg1Nk42QzJsU3VTanUwUndSZ2VKUmFyZEhvSWlMWE5MWFBrU01pMWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzk2MTE3CWZpbGU6SW5ib3gtMC4zLjI3LTEueDg2XzY0LnJwbQl2ZXJzaW9uOjAuMy4yNwo0bVR5dmFFTFVhL2x4WHplaGtFeGd6TGJLUjhab0ZjMGF2bWhGamdCYm9KZnBzbzhmbmxkd1ZRNHc4c2NPeXRDRFF6SVdiM2tFaVQwUzJKL0pKQ2ZBUT09Cg==",
+      "url": "https://github.com/mikebronka/inbox-releases/releases/latest/download/Inbox-0.3.27-1.x86_64.rpm"
+    }
+  }
+}

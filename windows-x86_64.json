@@ -1,0 +1,15 @@
+{
+  "version": "0.3.27",
+  "notes": "",
+  "pub_date": "2026-11-27T16:51:40.807Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTazFMSGs3akxsU01jWlZFdzh4T09LR0ZZa0V5Q0Nocm55c0xMTWpvVCsrS2hEYzZTWTNQZE0wVmpEellQUG42LzI0NjFvL0NDNVVGNWJnVjdkaG5QbVMxaFhYWmxtRXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzk4MjkzCWZpbGU6SW5ib3hfMC4zLjI3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMjcKZm1jNXdraFlQMVhOQjBWOGhXWERLdzRyUzN4Qm9BVGUvMGRIQ1IwNUdxa2VWbUFtUnhJTlpxZDEydEJBZzh6WG9sZDhtSzZDWkJscGs3MjVEczQ4Qnc9PQo=",
+      "url": "https://github.com/mikebronka/inbox-releases/releases/latest/download/Inbox_0.3.27_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTazFMSGs3akxsU01jWlZFdzh4T09LR0ZZa0V5Q0Nocm55c0xMTWpvVCsrS2hEYzZTWTNQZE0wVmpEellQUG42LzI0NjFvL0NDNVVGNWJnVjdkaG5QbVMxaFhYWmxtRXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzk4MjkzCWZpbGU6SW5ib3hfMC4zLjI3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMjcKZm1jNXdraFlQMVhOQjBWOGhXWERLdzRyUzN4Qm9BVGUvMGRIQ1IwNUdxa2VWbUFtUnhJTlpxZDEydEJBZzh6WG9sZDhtSzZDWkJscGs3MjVEczQ4Qnc9PQo=",
+      "url": "https://github.com/mikebronka/inbox-releases/releases/latest/download/Inbox_0.3.27_x64-setup.exe"
+    }
+  }
+}
