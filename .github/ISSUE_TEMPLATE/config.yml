@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: A security problem
+    url: https://inbox.mikebronka.com/buy#contact
+    about: A way to read someone's mail, passwords or keys – please write through the contact on the site, not in public, so it can be fixed first.
   - name: Licence or payment
     url: https://inbox.mikebronka.com/buy#contact
     about: Questions about a licence, an invoice or a payment – through the contact on the site, not in public.

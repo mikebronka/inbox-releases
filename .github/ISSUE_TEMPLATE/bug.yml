@@ -37,6 +37,14 @@ body:
         - Another IMAP server
         - POP3
         - Not about an account
+  - type: dropdown
+    id: since
+    attributes:
+      label: Since when
+      options:
+        - Since I updated Inbox
+        - It always did this
+        - I don't know
   - type: textarea
     id: what
     attributes:
